@@ -5,43 +5,18 @@
 
 ## Тип данных: Список
 ### Имя проекта: 
-```ShellSession
 StarPlanner 
-```
 ### Ссылка: 
-```ShellSession
 На проект: https://github.com/pekalicious/StarPlanner
 На файл с кодом: https://github.com/pekalicious/StarPlanner/blob/96fb19d72c7bc1264cb98d03f725ee0be428b654/swig-utils/etc/cpp/SwigUtils/TestCpp.cpp
-```
+
 
 ### Номера строк с функциями АТД:
-```ShellSession
-Добавление элемента: строка 
-```
-```ShellSession
+Вставка элементов:  14
+Удаление элементов: 36
+Очистка списка:     49
 
-```
+### Описание использования данного АТД
+В данном проекте список list используется в качестве временного хранилища для некоторых случайных (тестовых) значений, на примере которого провекряется корректность работы программы (специальных типов данных и соответствующих функций).
 
-```ShellSession
 
-```
-
-```ShellSession
-
-```
-
-```ShellSession
-
-```
-
-```ShellSession
-
-```
-
-```ShellSession
-
-```
-
-```ShellSession
-
-```
