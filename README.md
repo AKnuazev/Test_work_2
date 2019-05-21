@@ -10,7 +10,7 @@
 ## Тип данных: Список
 ### Имя проекта: 
 StarPlanner 
-### Ссылка: 
+### Ссылки: 
 На проект: https://github.com/pekalicious/StarPlanner
 
 На файл с кодом: https://github.com/pekalicious/StarPlanner/blob/96fb19d72c7bc1264cb98d03f725ee0be428b654/swig-utils/etc/cpp/SwigUtils/TestCpp.cpp
@@ -32,7 +32,7 @@ StarPlanner
 ## Тип данных: Очередь
 ### Имя проекта: 
 shared-queue
-### Ссылка: 
+### Ссылки: 
 На проект: https://github.com/Hazurl/shared-queue
 
 На файл с кодом: https://github.com/Hazurl/shared-queue/blob/ce9f56b45939a51e83ce1d93a04db2ff28a2a90e/src/main2.cpp
@@ -54,7 +54,7 @@ shared-queue
   ## Тип данных: Дерево
 ### Имя проекта: 
 treelib
-### Ссылка: 
+### Ссылки: 
 На проект: https://github.com/caesar0301/treelib
 
 На файл с кодом: https://github.com/caesar0301/treelib/blob/master/examples/family_tree.py#L54
@@ -78,7 +78,7 @@ treelib
   ## Тип данных: Множество
 ### Имя проекта: 
 green-candy
-### Ссылка: 
+### Ссылки: 
 На проект: https://github.com/qaisjp/green-candy
 
 На файл с кодом: https://github.com/qaisjp/green-candy/blob/807e79bac9296225ab3c162b713f2461c1542e46/MTA10/core/CCompressorJobQueue.cpp
