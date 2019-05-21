@@ -5,10 +5,13 @@
 
 ## Тип данных: Список
 ### Имя проекта: 
-StarPlanner (https://github.com/pekalicious/StarPlanner)
+StarPlanner 
 ### Ссылка: 
+На проект: https://github.com/pekalicious/StarPlanner
+На файл с кодом: https://github.com/pekalicious/StarPlanner/blob/96fb19d72c7bc1264cb98d03f725ee0be428b654/swig-utils/etc/cpp/SwigUtils/TestCpp.cpp
 
-
+### Номера строк с функциями АТД:
+Добавление элемента: строка 
 ```ShellSession
 
 ```
